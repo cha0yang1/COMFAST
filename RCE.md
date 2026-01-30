@@ -1,4 +1,4 @@
-<img width="1285" height="668" alt="image" src="https://github.com/user-attachments/assets/97bb98b5-b2ef-40a0-b17e-4273e5e9ee38" /># COMFAST
+# COMFAST
 # Vulnerability Analysis Report: COMFAST CF-E4 Remote Command Execution Vulnerability (V2.6.0.1)
 1. Basic Vulnerability Information
 Device Model: COMFAST CF-E4 (EC200A)
